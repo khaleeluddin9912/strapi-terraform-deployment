@@ -60,12 +60,11 @@ strapi-terraform-deployment/
 ├── data.tf
 ├── scripts/
 └── README.md
+
 Technologies Used
+
 Terraform
-
 AWS EC2
-
 Strapi CMS
-
 Node.js & Yarn
 
